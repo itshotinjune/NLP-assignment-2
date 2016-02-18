@@ -1,0 +1,35 @@
+[S
+	[vp [verb "Show"]
+		[np [det "the"]
+			[nominal [nominal [noun "airlines"]]
+					 [pp [prep "with"]
+					 	 [np [nominal [noun "flights"]
+					 	 			  [pp [prep "to"]
+					 	 			  	  [np [proper-noun "Boston"]]]]]]]]]]
+
+[S
+	[vp [verb "Show"]
+		[np [det "the"]
+			[nominal [nominal [noun "airlines"]]
+					 [rel-clause [rel-pro "that"]
+					 			 [vp [verb "fly"]
+					 			 	 [pp [prep "to"]
+					 			 	     [np [proper-noun "Boston"]]]]]]]]]
+
+[S
+	[np [pronoun "I"]]
+	[vp [verb "need"]
+		[inf-marker "to"]
+		[vp [verb "know"]
+			[np [det "the"]
+				[nominal [nominal [noun "flight"]]
+						 [noun "number"]]]]]]
+
+[S
+	[aux "Do"]
+	[np [pronoun "you"]]
+	[vp [verb "prefer"]
+		[inf-marker "to"]
+		[vp [verb "go"]
+			[pp [prep "to"]]
+				[np [proper-noun "Boston"]]]]]
